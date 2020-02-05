@@ -1,0 +1,11 @@
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\bin\Debug\netcoreapp3.0\RailFenceCipher.exe
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\bin\Debug\netcoreapp3.0\RailFenceCipher.deps.json
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\bin\Debug\netcoreapp3.0\RailFenceCipher.runtimeconfig.json
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\bin\Debug\netcoreapp3.0\RailFenceCipher.runtimeconfig.dev.json
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\bin\Debug\netcoreapp3.0\RailFenceCipher.dll
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\bin\Debug\netcoreapp3.0\RailFenceCipher.pdb
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\obj\Debug\netcoreapp3.0\RailFenceCipher.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\obj\Debug\netcoreapp3.0\RailFenceCipher.AssemblyInfoInputs.cache
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\obj\Debug\netcoreapp3.0\RailFenceCipher.AssemblyInfo.cs
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\obj\Debug\netcoreapp3.0\RailFenceCipher.dll
+C:\Users\IVAN\source\repos\RailFenceCipher\RailFenceCipher\obj\Debug\netcoreapp3.0\RailFenceCipher.pdb
